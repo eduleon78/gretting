@@ -21,6 +21,14 @@ h1 {
     font-weight: bold;
 }
 
+h2, a {
+    color: red;
+}
+
+h3, a {
+    color: red;
+}
+
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
@@ -33,7 +41,7 @@ button {
     color: red;
     border: 2px solid blueviolet;
     border-radius: 3px;
-    background-color: salmon;
+    background-color: #4D90FE;
     font-weight: bold;
 }
 
