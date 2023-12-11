@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-001",
+  "version": "1.0.0",
+  "description": "Proyecto basico para un saludo utilizando los lenguajes y herramientas, Html, Css, y JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
